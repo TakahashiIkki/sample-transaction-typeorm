@@ -9,11 +9,12 @@ export class Task {
   private dueDate: Date;
   private postponeCount: number;
 
-  constructor(name?: string, dueDate?: Date) {
-    if (!name || !dueDate) {
+  constructor(name: string, dueDate: Date) {
+    if (!name) {
       throw new IllegalArgumentException("必須項目が設定されていません");
     }
 
+    //  TODO
     this.id = 1;
     this.name = name;
     this.dueDate = dueDate;
