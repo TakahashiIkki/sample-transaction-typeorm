@@ -1,8 +1,8 @@
 {
-  "name": "pokemon-modeling",
+  "name": "sample-transaction-typeorm",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:TakahashiIkki/pokemon-modeling.git",
+  "repository": "git@github.com:TakahashiIkki/sample-transaction-typeorm.git",
   "author": "ikkitang <new_ittyandesu@outlook.jp>",
   "license": "MIT",
   "scripts": {
