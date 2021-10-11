@@ -1,4 +1,4 @@
-import { IllegalArgumentException } from "../../../errors/IllegalArgumentException";
+import { IllegalArgumentException } from "../../errors/IllegalArgumentException";
 
 export class Task {
   private static POSTPONE_MAX_COUNT = 3;
