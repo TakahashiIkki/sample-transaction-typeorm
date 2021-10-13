@@ -237,3 +237,5 @@ dist
 /lib
 !lib/.keep
 
+
+domain.txt
